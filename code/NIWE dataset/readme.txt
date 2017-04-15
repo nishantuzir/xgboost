@@ -1,0 +1,1 @@
+The data.csv file is the modified form of data1.csv. The data1.csv file contains the datetime column, which has been removed in data.csv file because as seen in the correlation matrix, the datetime column has no correlation with rest of the attributes .
