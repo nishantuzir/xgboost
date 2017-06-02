@@ -5,3 +5,5 @@ The code folder contains all the code used to arrive at the results
 
 In order to run the code, first install xgboost, numpy, scikit-learn and matplotlib package
 
+The link to the paper is http://serialsjournals.com/serialjournalmanager/pdf/1495083251.pdf
+
