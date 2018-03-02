@@ -3,7 +3,7 @@ This folder provides the datasets and python code that was used in the paper ent
 The datasets folder contains all the datasets used in the research study
 The code folder contains all the code used to arrive at the results
 
-The code has been written in python 3...
+The code has been written in python 3.5
 
 In order to run the code, first install xgboost, numpy, scikit-learn and matplotlib package
 
